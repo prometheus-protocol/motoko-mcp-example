@@ -1,0 +1,24 @@
+# Prometheus Application Manifest
+# This is the permanent, unique identifier for your application.
+namespace: com.company.awesome
+
+# This section contains all data for a specific version.
+submission:
+  name: Awesome App
+  description: Awesome demo app
+  publisher: company
+  category: Utilities
+  repo_url: https://github.com/project/awesome-app
+  canister_id: uxrrr-q7777-77774-qaaaq-cai
+  mcp_path: /mcp
+  why_this_app: It is very great!
+  key_features:
+    - awesome
+  tags:
+    - blockchain
+  visuals:
+    icon_url: 'https://prometheusprotocol.org/icons/pp-icon.png'
+    banner_url: 'https://prometheusprotocol.org/banners/banner-001.png'
+    gallery_images: ['https://prometheusprotocol.org/banners/banner-001.png']
+  git_commit: ''
+  wasm_path: ./path/to/your/canister.wasm

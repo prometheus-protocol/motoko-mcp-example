@@ -154,4 +154,4 @@ npm run app-store -- publish --app-version "0.1.0"
 ## What's Next?
 
 -   **Customize Your Tool:** Open `src/main.mo` to start building your own custom MCP tools.
--   **Learn More:** Check out the [Motoko MCP SDK documentation](https://github.com/prometheus-protocol/motoko-sdk) for advanced features.
+-   **Learn More:** Check out the [Motoko MCP SDK documentation](https://github.com/prometheus-protocol/motoko-sdk) for advanced features.# motoko-mcp-example

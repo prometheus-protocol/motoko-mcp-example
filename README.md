@@ -4,6 +4,8 @@ Welcome! This template provides a complete, ready-to-deploy Motoko MCP server fo
 
 No need to install anything on your machine to get started. Let's dive in.
 
+Launch Now in ICP Ninja: https://icp.ninja/i?s=wOrZM
+
 ---
 
 ## The ICP Ninja Workflow
@@ -38,7 +40,7 @@ Your server is now live with a default `echo` tool. Let's test it.
     ```bash
     npx @modelcontextprotocol/inspector
     ```
-4.  **Open the URL** in a new browser tab. The MCP Inspector will load. Enter your URL to your MCP server in the box and click 'connect'. You can now list and fetch resources and tools, and invoke the `weather` tool.
+4.  **Open the URL**: The MCP Inspector will open a browser tab. Enter your URL to your MCP server in the box and click 'connect'. You can now list and fetch resources and tools, and invoke the `weather` tool (spoiler alert, its always sunny!).
 
 🎉 **Congratulations!** You have a working MCP server running on the Internet Computer.
 

@@ -29,7 +29,7 @@ Wait for the deployment process to complete. You'll see the output in the consol
 
 ### Step 2: Test with the MCP Inspector
 
-Your server is now live with a default `echo` tool. Let's test it.
+Your server is now live with a couple default resources and a default `get_weather` tool. Let's test it.
 
 1.  **Copy your Canister ID** from the deployment output panel.
 2.  **Construct the Inspector URL:** Create a URL with this format:
@@ -40,7 +40,7 @@ Your server is now live with a default `echo` tool. Let's test it.
     ```bash
     npx @modelcontextprotocol/inspector
     ```
-4.  **Open the URL**: The MCP Inspector will open a browser tab. Enter your URL to your MCP server in the box and click 'connect'. You can now list and fetch resources and tools, and invoke the `weather` tool (spoiler alert, its always sunny!).
+4.  **Open the URL**: The MCP Inspector will open a browser tab. Enter your URL to your MCP server in the box and click 'connect'. You can now list and fetch resources and tools, and invoke the `get_weather` tool (spoiler alert, its always sunny!).
 
 🎉 **Congratulations!** You have a working MCP server running on the Internet Computer.
 
